@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+this is the b2_file.
+change on branch b2.
+
+=======
+this is b2_file .
+chnge on b3 branch
+>>>>>>> b3
